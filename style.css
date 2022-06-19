@@ -29,3 +29,12 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+#link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, orangered);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
